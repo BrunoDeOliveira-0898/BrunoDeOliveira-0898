@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou Bruno de Oliveira
 - 👀 Estou interessado no desenvolvimento front-end
-- 🌱 No momento estudando HTML, CSS e JavaScript
+- 🌱 HTML, CSS & JavaScript. No momento estudando ReactJS
 - 📫 Contato: (https://www.linkedin.com/in/bruno-de-oliveira-9b87b9240/)
 - 📫 Contato: (brunoo043@gmail.com)
 
