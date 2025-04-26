@@ -2,6 +2,7 @@
 - 👀 Estou interessado no desenvolvimento front-end
 - 🌱 No momento estudando HTML, CSS e JavaScript
 - 📫 Contato: (https://www.linkedin.com/in/bruno-de-oliveira-9b87b9240/)
+- 📫 Contato: (brunoo043@gmail.com)
 
 <!---
 BrunoDeOliveira-0898/BrunoDeOliveira-0898 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
