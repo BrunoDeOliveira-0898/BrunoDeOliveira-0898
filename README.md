@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou Bruno de Oliveira
 - 👨🏽‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 👀 Focado inicialmente no desenvolvimento web front-end
-- 🌱 HTML, CSS & JavaScript. No momento estudando ReactJS
+- 🌱 HTML, CSS & JavaScript, além de um pouco de Python🐍. No momento estudando ReactJS
 - 📫 Contato: (https://www.linkedin.com/in/bruno-de-oliveira-9b87b9240/)
 - 📫 E-mail: (brunoo043@gmail.com)
 
