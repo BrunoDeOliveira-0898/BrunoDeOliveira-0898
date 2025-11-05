@@ -8,7 +8,7 @@ Possuo leve conhecimento em **Python** também, graças a faculdade.
 
 ## Estou em constante busca por **oportunidades** que me permitam aplicar meus **conhecimentos**.
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ O que sei fazer, o que estou aprendendo e o que vou aprender...
 
 <div align="center">
 
