@@ -11,7 +11,7 @@
 
 ## Sobre Mim 👨‍💻
 
-Desenvolvedor Front-End apaixonado por criar experiências web excepcionais. Formado em **Análise e Desenvolvimento de Sistemas**, com foco especial em tecnologias modernas de desenvolvimento web.
+Formado em **Análise e Desenvolvimento de Sistemas**, com foco especial em tecnologias modernas de desenvolvimento web.
 
 - 🔭 Atualmente focado em **React** e **JavaScript**
 - 🌱 Explorando **TypeScript** e expandindo conhecimentos em **Python**
