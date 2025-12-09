@@ -42,7 +42,7 @@ Formado em **Análise e Desenvolvimento de Sistemas**, com foco especial em tecn
 
 <div align="center">
 
-[![Blog Busólogo Axios-React Router](https://img.shields.io/badge/-🛜%20Blog%20Busólogo%20Axios%20e%20React%20Router%20DOM-222222?style=for-the-badge)](https://github.com/BrunoDeOliveira-0898/BlogBusologo)
+[![Blog Busólogo Axios-React Router](https://img.shields.io/badge/-🛜%20Blog%20Busólogo%20Axios%20e%20React%20Router%20DOM-222222?style=for-the-badge)](https://github.com/BrunoDeOliveira-0898/Blog-Busologo)
 [![QRCode Generator](https://img.shields.io/badge/-🧬%20QRCode%20Generator-222222?style=for-the-badge)](https://github.com/BrunoDeOliveira-0898/QRCodeGenerator)
 [![PassGen](https://img.shields.io/badge/-🔐%20Password%20Generator-222222?style=for-the-badge)](https://github.com/BrunoDeOliveira-0898/PassGen)
 [![Multi-Step Form](https://img.shields.io/badge/-📝%20Multi--Step%20Form-222222?style=for-the-badge)](https://github.com/BrunoDeOliveira-0898/PassGen)
