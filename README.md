@@ -1,6 +1,6 @@
 # Bruno de Oliveira
 
-## Desenvolvedor Front-End | React Enthusiast 🚀
+## Desenvolvedor Front-End
 
 <div align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
