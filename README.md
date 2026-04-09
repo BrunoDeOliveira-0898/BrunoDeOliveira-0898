@@ -52,6 +52,7 @@ Formado em **Análise e Desenvolvimento de Sistemas**, com foco especial em tecn
 ### Detalhes dos Projetos
 
 - **KoshiHost**: Landing page responsiva para empresa de hospedagem fictícia (HTML, CSS, FontAwesome)
+- **Blog Busólogo**: Blog com consumo de API (Lorem Ipsum) usando Axios e React Router DOM.
 - **QRCode Generator**: Gerador funcional de QR Code utilizando API
 - **Password Generator**: Gerador de senhas customizável com opções variadas
 - **Multi-Step Form**: Formulário em três etapas desenvolvido com ReactJS e Vite
